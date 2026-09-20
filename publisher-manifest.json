@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a62622f267616d8d55592a26",
+  "owner": "vxspeg9bv",
+  "repo": "page-f2f8a16445609bfae33585c7",
+  "title": "跑路云(Paoluz)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f2f8a16445609bfae33585c7",
+      "a": "跑路云(Paoluz)",
+      "b": "2027最新官网",
+      "entity": "跑路云(Paoluz)",
+      "brand": "跑路云(Paoluz)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "066c81e9e51bdfea9cfb528aa5ff426ae4ecf780c6f70fe7c8e5b15488a8f07d",
+      "content": {
+        "primary_entity": "跑路云(Paoluz)",
+        "keyword1": "跑路云(Paoluz)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "客户端选择按设备类型与系统版本区分，桌面端与移动端配置思路略有差异。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "依据自己的设备数量与月流量习惯，在跑路云(Paoluz)三档方案里挑一档即可开始订阅。",
+          "AI_CLOSING_TITLE": "按需选套餐",
+          "AI_DESCRIPTION": "，跑路云(Paoluz)提供基础版、旗舰版与团队版三档加速订阅，月付从 ¥15 到 ¥85 不等，年付折算后分别约 ¥150/年、¥350/年与 ¥850/年，覆盖 100GB 至 1000GB 流量区间，设备同时在线上限从 3 台延伸到 20 台，旗舰版和团队版还提供 IPLC 专线、原生流媒体解锁与优先工单支持，适合在订阅周期、流量消耗和终端数量之间做取舍的用户。",
+          "AI_FEATURES_INTRO": "从流量、设备和线路三个角度拆解跑路云(Paoluz)的套餐差异，方便对照需求。",
+          "AI_FEATURES_TITLE": "套餐维度",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按实际用量选择对应档位。",
+          "AI_FEATURE_TEXT_2": "同时在线上限为 3 台、5 台与 20 台，手机、平板、电脑混用时先数清设备总数。",
+          "AI_FEATURE_TEXT_3": "旗舰版和团队版包含 IPLC 专线与原生流媒体解锁，基础版为普通线路节点池。",
+          "AI_FEATURE_TITLE_1": "流量跨度",
+          "AI_FEATURE_TITLE_2": "设备上限",
+          "AI_FEATURE_TITLE_3": "线路分层",
+          "AI_GUIDE_INTRO": "先明确使用场景，再核对设备条件，最后按客户端文档把订阅导入。",
+          "AI_GUIDE_TITLE": "三步上手",
+          "AI_HERO_INTRO": "跑路云(Paoluz)面向需要海外网络加速的日常用户与小团队，提供基础版、旗舰版、团队版三个订阅档位，月流量从 100GB 到 1000GB，设备同时在线上限 3 台到 20 台，年付价格在月付基础上按十个月折算，套餐间主要区别在于流量额度、设备数量与线路类型。",
+          "AI_HERO_SUBTITLE": "三档订阅覆盖多设备加速",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起步，年付更省两个月",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备同时在线上限",
+          "AI_HIGHLIGHT_3": "旗舰版与团队版含 IPLC 专线",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用，旗舰版是多数用户的平衡选择，团队版面向多设备高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "对照月流量、设备数量与线路需求，从基础版、旗舰版、团队版中圈定一档。",
+          "AI_STEP_TEXT_2": "确认常用设备的系统版本与客户端类型，核对套餐允许的同时在线设备上限。",
+          "AI_STEP_TEXT_3": "按照所选客户端的订阅导入说明，把跑路云(Paoluz)的订阅配置写入设备。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "跑路云三档加速方案",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量，支持3台设备同时在线，适合轻度浏览与基础流媒体需求。年付仅需¥150/年，比月付更划算。",
+          "AI_FAQ_ANSWER_2": "旗舰版包含IPLC专线游戏加速优化、全节点原生流媒体解锁，并支持5台设备同时在线。如果主要用来看高清视频或玩在线游戏，这一档更合适。",
+          "AI_FAQ_ANSWER_3": "团队版每月1000GB流量，支持20台设备同时在线，并提供VIP专属高带宽节点与企业定制路由，适合多人协作或工作室场景。",
+          "AI_FAQ_ANSWER_4": "在对应客户端中新建订阅，粘贴套餐提供的订阅地址，保存后更新节点列表即可。不同系统的客户端配置文档会说明具体导入步骤。",
+          "AI_FAQ_ANSWER_5": "月付适合短期试用，年付价格更低。基础版年付¥150/年，旗舰版年付¥350/年，团队版年付¥850/年。长期使用建议直接选择年付。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版套餐包含哪些内容？",
+          "AI_FAQ_QUESTION_2": "旗舰版适合什么使用场景？",
+          "AI_FAQ_QUESTION_3": "团队版和普通版有什么区别？",
+          "AI_FAQ_QUESTION_4": "订阅应该怎么导入客户端？",
+          "AI_FAQ_QUESTION_5": "月付和年付哪个更划算？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lingyunjob.cn",
+    "host": "lingyunjob.cn"
+  },
+  "file_hashes": {
+    "index.html": "173a50f41cd6a513edde02a78e5c1fc0bb60c97497a26cae2404037f67c50352",
+    "sitemap.xml": "2d6f6d8c03034110625ca070cdb7995ee573dee1941ece6b7cd8a3a95789ebc9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "50966caa03d2977dd56fbb7f1178f0bec29db2c657e490185dee56b116c64718",
+    "robots.txt": "50322466089d4e3ff86a2ac1541161e89ec1490d4d5215119c5ebf7cde3a2645",
+    "168f8bf5c3cba572f1a96ab7414926ba.txt": "097ca598b28d1fe16a5254136f72e4458dd4682e847709d0ad30d5620b00316e"
+  },
+  "revision": "24269c5a77f198eea64c095e33247a3d9a979bfc9b06a876c061ae142780fbfd"
+}
